@@ -17,7 +17,7 @@ _Normally I will publish my actual analyses here but in this first week case, I 
 ### Core
 
 <audio controls>
-  <source src="/weekly/audio/20170612-turnitupupupup.mp3" type="audio/mpeg">
+  <source src="{% link /weekly/audio/20170612-turnitupupupup.mp3 %}" type="audio/mpeg">
 	  Sorry, this browser does not support embedded audio.
 </audio>
 
@@ -26,7 +26,7 @@ You will note that there are three distinct parts, the verse, the lift and the c
 ### Arrangement
 
 <audio controls>
-  <source src="/weekly/audio/20170612-turnitupupupup2.mp3" type="audio/mpeg">
+  <source src="{% link /weekly/audio/20170612-turnitupupupup2.mp3 %}" type="audio/mpeg">
 	  Sorry, this browser does not support embedded audio.
 </audio>
 
