@@ -1,3 +1,3 @@
 # Fifty Two
 
-[About]({{ site.url }}/about/)
+[About]({{ site.github.url }}/about/)
