@@ -5,4 +5,4 @@ title: README
 
 # Fifty Two
 
-[About]({{ site.github.url }}/about/)
+<a href="{{ site.github.url }}/about/">About</a>
