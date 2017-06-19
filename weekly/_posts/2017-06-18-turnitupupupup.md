@@ -3,7 +3,7 @@ layout: post
 title: Turn It Up Up Up Up
 ---
 
-[As you know](/{{ site.url }}/about/), I have 5 stories to complete for each record. Given this was my first record of the exercise _and_ bearing in mind this was Father's Day weekend &hellip; I didn't get to all 5 stories. But that's ok. The goal here is to keep working with what we got and turn in what we have.
+[As you know]({{ site.github.url }}/about/), I have 5 stories to complete for each record. Given this was my first record of the exercise _and_ bearing in mind this was Father's Day weekend &hellip; I didn't get to all 5 stories. But that's ok. The goal here is to keep working with what we got and turn in what we have.
 
 And on that note &hellip; enjoy!
 
@@ -17,7 +17,7 @@ _Normally I will publish my actual analyses here but in this first week case, I 
 ### Core
 
 <audio controls>
-  <source src="{{ site.url }}/weekly/audio/20170612-turnitupupupup.mp3" type="audio/mpeg">
+  <source src="{{ site.github.url }}/weekly/audio/20170612-turnitupupupup.mp3" type="audio/mpeg">
 	  Sorry, this browser does not support embedded audio.
 </audio>
 
@@ -26,7 +26,7 @@ You will note that there are three distinct parts, the verse, the lift and the c
 ### Arrangement
 
 <audio controls>
-  <source src="{{ site.url}}/weekly/audio/20170612-turnitupupupup2.mp3" type="audio/mpeg">
+  <source src="{{ site.github.url }}/weekly/audio/20170612-turnitupupupup2.mp3" type="audio/mpeg">
 	  Sorry, this browser does not support embedded audio.
 </audio>
 
