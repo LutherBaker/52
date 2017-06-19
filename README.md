@@ -1,4 +1,3 @@
 # Fifty Two
 
-{% link /about/ %}
-
+[About]({{ site.url }}/about/)
