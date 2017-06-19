@@ -3,7 +3,7 @@ layout: post
 title: Turn It Up Up Up Up
 ---
 
-[As you know](/about/), I have 5 stories to complete for each record. Given this was my first record of the exercise _and_ bearing in mind this was Father's Day weekend &hellip; I didn't get to all 5 stories. But that's ok. The goal here is to keep working with what we got and turn in what we have.
+[As you know](/{{ site.url }}/about/), I have 5 stories to complete for each record. Given this was my first record of the exercise _and_ bearing in mind this was Father's Day weekend &hellip; I didn't get to all 5 stories. But that's ok. The goal here is to keep working with what we got and turn in what we have.
 
 And on that note &hellip; enjoy!
 
