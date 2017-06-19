@@ -11,7 +11,7 @@ And on that note &hellip; enjoy!
 
 _Normally I will publish my actual analyses here but in this first week case, I wasn't taking notes. I will circle back one day and put a pen to my thoughts at some point - just hang tight while I get this thing going!_
 
-- Ke$sha's Kiss and Tell
+- Ke$ha's Kiss and Tell
 - Avril Lavigne's Sk8ter Boi
 
 ### Core
