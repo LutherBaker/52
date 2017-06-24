@@ -15,19 +15,24 @@ _I will soon post my notes here!_
 
 Here is my initial idea stemming from the analysis. At this stage, I want to keep things simple (transitions are not completely vetted out) but you should be able to make out a chorus, verse and lift.
 
-<audio controls>
+<audio controls onPlay="pauseAudio('arr')" id="core">
   <source src="{{ site.github.url }}/weekly/audio/20170619-dontmistakeme.mp3" type="audio/mpeg">
 	  Sorry, this browser does not support embedded audio.
+  </source>
 </audio>
 
 ### Arrangement
 
-_Wait for it. Sometime early mid-week!_
+<audio controls onPlay="pauseAudio('core')" id="arr">
+  <source src="{{ site.github.url }}/weekly/audio/20170619-dontmistakeme2.mp3" type="audio/mpeg">
+	  Sorry, this browser does not support embedded audio.
+  </source>
+</audio>
 
 ### Lyrical
 
-_Wait for it. Sometime late mid week!_
+Whoa - its hard to get to this each week. Haven't finished this step yet.
 
 ### Production
 
-_Wait for it. Toward the end of the week!_
+Again, just running out of time each week for this. Part of my problem here is that I can't really rush production - it is one of the longer, drawn out parts of the process for me currently.
